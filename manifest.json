@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Immortal Resource Pack",
+        "name": "Immortal",
+        "uuid": "e5e8c7a2-9f4a-4b2e-9e7b-1a2b3c4d5e6f",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+        {
+            "description": "Immortal Resource Pack Module",
+            "type": "resources",
+            "uuid": "a1b2c3d4-e5f6-7890-abcd-1234567890ab",
+            "version": [1, 0, 0]
+        }
+    ]
+}
