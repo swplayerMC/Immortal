@@ -1,3 +1,1 @@
-#Immortal
-##One more resource pack by me!
-###This one i think i'll port to Java too, but later...
+-Hi?
