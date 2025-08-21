@@ -1,0 +1,32 @@
+{
+    "air": {},
+    "grass": {
+        "carried_textures": {
+            "down": "grass_carried_bottom",
+            "side": "grass_carried",
+            "up": "grass_carried_top"
+        },
+        "isotropic": {
+            "down": true,
+            "up": true
+        },
+        "sound": "grass",
+        "textures": {
+            "down": "grass_bottom",
+            "side": "grass_side",
+            "up": "grass_top"
+        }
+    },
+    "grass_path": {
+        "isotropic": {
+            "down": true,
+            "up": true
+        },
+        "sound": "grass",
+        "textures": {
+            "down": "dirt",
+            "side": "grass_path_side",
+            "up": "grass_path_top"
+        }
+    }
+}
