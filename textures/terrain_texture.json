@@ -1,32 +1,7 @@
 {
     "texture_data": {
-        "stone_flipbook": {
-            "textures": [
-                "textures/blocks/stone-Sheet1",
-                "textures/blocks/stone-Sheet2",
-                "textures/blocks/stone-Sheet3",
-                "textures/blocks/stone-Sheet4"
-            ]
-        },
         "stone": {
-            "textures": [
-                {
-                    "variations": [
-                        {
-                            "path": "textures/blocks/stone-Sheet1"
-                        },
-                        {
-                            "path": "textures/blocks/stone-Sheet2"
-                        },
-                        {
-                            "path": "textures/blocks/stone-Sheet3"
-                        },
-                        {
-                            "path": "textures/blocks/stone-Sheet4"
-                        }
-                    ]
-                }
-            ]
+            "textures": "textures/blocks/stone"
         }
     }
 }

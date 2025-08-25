@@ -3,7 +3,7 @@
 
     "stone": {
         //"carried_textures": "",
-        "textures": "",
+        "textures": "stone",
         "sound": "stone"
     }
 }
