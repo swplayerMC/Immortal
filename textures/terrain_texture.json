@@ -1,7 +1,3 @@
 {
-    "texture_data": {
-        "stone": {
-            "textures": "textures/blocks/stone"
-        }
-    }
+    "texture_data": {}
 }
