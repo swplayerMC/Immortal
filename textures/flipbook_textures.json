@@ -1,0 +1,32 @@
+[
+    {
+        "flipbook_texture": "textures/blocks/stone-pink",
+        "atlas_tile": "stone_flipbook",
+        "atlas_index": 0,
+        "ticks_per_frame": 2,
+        "blend_frames": true,
+        "frames": [
+            0, 1, 2, 3
+        ]
+    },
+    {
+        "flipbook_texture": "textures/blocks/stone-blue",
+        "atlas_tile": "stone_flipbook",
+        "atlas_index": 1,
+        "ticks_per_frame": 2,
+        "blend_frames": true,
+        "frames": [
+            0, 1, 2, 3
+        ]
+    },
+    {
+        "flipbook_texture": "textures/blocks/stone-cyan",
+        "atlas_tile": "stone_flipbook",
+        "atlas_index": 2,
+        "ticks_per_frame": 2,
+        "blend_frames": true,
+        "frames": [
+            0, 1, 2, 3
+        ]
+    }
+]

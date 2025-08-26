@@ -1,3 +1,40 @@
 {
-    "texture_data": {}
+    "texture_data": {
+        "stone_carried": {
+            "textures": [
+                "textures/blocks/stone",
+                "textures/blocks/stone_granite",
+                "textures/blocks/stone_granite_smooth",
+                "textures/blocks/stone_diorite",
+                "textures/blocks/stone_diorite_smooth",
+                "textures/blocks/stone_andesite",
+                "textures/blocks/stone_andesite_smooth"
+            ]
+        },
+        "stone_flipbook": {
+            "textures": [
+                "textures/blocks/stone-pink",
+                "textures/blocks/stone-blue",
+                "textures/blocks/stone-cyan"
+            ]
+        },
+        "stone": {
+            "textures": [
+                {
+                    // Stone block variations
+                    "variations": [
+                        {
+                            "path": "textures/blocks/stone-pink"
+                        },
+                        {
+                            "path": "textures/blocks/stone-blue"
+                        },
+                        {
+                            "path": "textures/blocks/stone-cyan"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
 }

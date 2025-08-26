@@ -2,7 +2,7 @@
     "format_version": [ 1, 1, 0 ],
 
     "stone": {
-        //"carried_textures": "",
+        "carried_textures": "stone_carried",
         "textures": "stone",
         "sound": "stone"
     }
