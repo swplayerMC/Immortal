@@ -21,7 +21,6 @@
         "stone": {
             "textures": [
                 {
-                    // Stone block variations
                     "variations": [
                         {
                             "path": "textures/blocks/stone-pink"
