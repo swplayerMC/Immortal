@@ -1,2 +1,2 @@
 # Ignoring temporary files
-./textures/blocks/grass
+./textures/blocks/grass/*

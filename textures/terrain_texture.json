@@ -13,9 +13,15 @@
         },
         "stone_flipbook": {
             "textures": [
-                "textures/blocks/stone-pink",
-                "textures/blocks/stone-blue",
-                "textures/blocks/stone-cyan"
+                "textures/blocks/stone-pink1",
+                "textures/blocks/stone-blue1",
+                "textures/blocks/stone-cyan1",
+                "textures/blocks/stone-pink2",
+                "textures/blocks/stone-blue2",
+                "textures/blocks/stone-cyan2",
+                "textures/blocks/stone-pink3",
+                "textures/blocks/stone-blue3",
+                "textures/blocks/stone-cyan3"
             ]
         },
         "stone": {
@@ -23,13 +29,31 @@
                 {
                     "variations": [
                         {
-                            "path": "textures/blocks/stone-pink"
+                            "path": "textures/blocks/stone-pink1"
                         },
                         {
-                            "path": "textures/blocks/stone-blue"
+                            "path": "textures/blocks/stone-blue1"
                         },
                         {
-                            "path": "textures/blocks/stone-cyan"
+                            "path": "textures/blocks/stone-cyan1"
+                        },
+                        {
+                            "path": "textures/blocks/stone-pink2"
+                        },
+                        {
+                            "path": "textures/blocks/stone-blue2"
+                        },
+                        {
+                            "path": "textures/blocks/stone-cyan2"
+                        },
+                        {
+                            "path": "textures/blocks/stone-pink3"
+                        },
+                        {
+                            "path": "textures/blocks/stone-blue3"
+                        },
+                        {
+                            "path": "textures/blocks/stone-cyan3"
                         }
                     ]
                 }

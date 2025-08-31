@@ -1,32 +1,92 @@
 [
     {
-        "flipbook_texture": "textures/blocks/stone-pink",
+        "flipbook_texture": "textures/blocks/stone-pink1",
         "atlas_tile": "stone_flipbook",
         "atlas_index": 0,
-        "ticks_per_frame": 10,
+        "ticks_per_frame": 40,
         "blend_frames": true,
         "frames": [
-            0, 1, 2, 3
+            3, 2, 0, 2, 1, 0, 3, 0, 1
         ]
     },
     {
-        "flipbook_texture": "textures/blocks/stone-blue",
+        "flipbook_texture": "textures/blocks/stone-blue1",
         "atlas_tile": "stone_flipbook",
         "atlas_index": 1,
-        "ticks_per_frame": 10,
+        "ticks_per_frame": 40,
         "blend_frames": true,
         "frames": [
-            0, 1, 2, 3
+            0, 1, 0, 2, 3, 0, 0, 0, 1, 2
         ]
     },
     {
-        "flipbook_texture": "textures/blocks/stone-cyan",
+        "flipbook_texture": "textures/blocks/stone-cyan1",
         "atlas_tile": "stone_flipbook",
         "atlas_index": 2,
-        "ticks_per_frame": 10,
+        "ticks_per_frame": 40,
         "blend_frames": true,
         "frames": [
-            0, 1, 2, 3
+            0, 1, 0, 2, 0, 3, 0, 2, 0, 1
+        ]
+    },
+    {
+        "flipbook_texture": "textures/blocks/stone-pink2",
+        "atlas_tile": "stone_flipbook",
+        "atlas_index": 0,
+        "ticks_per_frame": 40,
+        "blend_frames": true,
+        "frames": [
+            0, 3, 2, 0, 0, 1, 0, 1
+        ]
+    },
+    {
+        "flipbook_texture": "textures/blocks/stone-blue2",
+        "atlas_tile": "stone_flipbook",
+        "atlas_index": 1,
+        "ticks_per_frame": 40,
+        "blend_frames": true,
+        "frames": [
+            0, 2, 0, 3, 0, 2, 0, 1
+        ]
+    },
+    {
+        "flipbook_texture": "textures/blocks/stone-cyan2",
+        "atlas_tile": "stone_flipbook",
+        "atlas_index": 2,
+        "ticks_per_frame": 40,
+        "blend_frames": true,
+        "frames": [
+            1, 0, 3, 2, 0, 0, 1, 0, 3, 2, 1, 0
+        ]
+    },
+    {
+        "flipbook_texture": "textures/blocks/stone-pink3",
+        "atlas_tile": "stone_flipbook",
+        "atlas_index": 0,
+        "ticks_per_frame": 40,
+        "blend_frames": true,
+        "frames": [
+            3, 0, 2, 0, 1, 0, 0, 2, 0, 1, 0, 2, 0
+        ]
+    },
+    {
+        "flipbook_texture": "textures/blocks/stone-blue3",
+        "atlas_tile": "stone_flipbook",
+        "atlas_index": 1,
+        "ticks_per_frame": 40,
+        "blend_frames": true,
+        "frames": [
+            2, 0, 2, 1, 0, 3, 0, 1, 0, 0, 3
+        ]
+    },
+    {
+        "flipbook_texture": "textures/blocks/stone-cyan3",
+        "atlas_tile": "stone_flipbook",
+        "atlas_index": 2,
+        "ticks_per_frame": 40,
+        "blend_frames": true,
+        "frames": [
+            0, 1, 3, 2, 0, 1, 0, 1, 0, 0, 0, 3
         ]
     }
 ]
