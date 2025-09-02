@@ -1,0 +1,43 @@
+{
+    "items": {
+        "diamond_sword": {
+            "blue_version": {},
+            "pink_version": {},
+            "main_version": {}
+        }
+    },
+    "blocks": {
+        "grass": {
+            "gray_scale": [
+                "#e3e3e3",
+                "#f1f1f1",
+                "#ebebeb"
+            ],
+            "main_overlay": {
+                "color": "#79c05a",
+                "blend_mode": "multiply",
+                "blended_colors": [
+                    "#6cab50",
+                    "#70b153",
+                    "#72b555"
+                ]
+            }
+        },
+        "dirt": {
+            "gray_scale": [
+                "#5d5d5d",
+                "#656565",
+                "#6c6c6c"
+            ],
+            "main_overlay": {
+                "color": "#aa6a4b",
+                "blend_mode": "overlay",
+                "blended_colors": [
+                    "#7c4d37",
+                    "#87543b",
+                    "#905a40"
+                ]
+            }
+        }
+    }
+}
