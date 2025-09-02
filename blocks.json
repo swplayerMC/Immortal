@@ -3,7 +3,7 @@
     "grass": {
         "carried_textures": {
             "down": "grass_carried_bottom",
-            "side": "grass_carried",
+            "side": "grass_carried_side",
             "up": "grass_carried_top"
         },
         "isotropic": {

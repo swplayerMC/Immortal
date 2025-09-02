@@ -1,5 +1,191 @@
 {
     "texture_data": {
+        "missing": {
+            "textures": "textures/misc/missing_texture"
+        },
+        "grass_side": {
+            "textures": [
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#6caa6a"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#68c241"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#d2c94f"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#59c93c"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#59c93c"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#88bb66"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#86b87f"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#64c73f"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#7fae7c"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#83b593"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#80b497"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#91bd59"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#968445"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#8eb971"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#858e41"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#5c8e39"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_side",
+                    "overlay_color": "#778272"
+                },
+                "textures/blocks/grass_side_snowed"
+            ]
+        },
+        "grass_top": {
+            "textures": [
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#6caa6a"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#68c241"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#d2c94f"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#59c93c"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#59c93c"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#88bb66"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#86b87f"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#64c73f"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#7fae7c"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#83b593"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#80b497"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#91bd59"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#968445"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#8eb971"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#858e41"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#5c8e39"
+                },
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#778272"
+                }
+            ]
+        },
+        "grass_bottom": {
+            "textures": [
+                "textures/blocks/dirt",
+                "textures/blocks/dirt",
+                "textures/blocks/dirt",
+                "textures/blocks/dirt",
+                "textures/blocks/dirt",
+                "textures/blocks/dirt",
+                "textures/blocks/dirt",
+                "textures/blocks/dirt",
+                "textures/blocks/dirt",
+                "textures/blocks/dirt",
+                "textures/blocks/dirt",
+                "textures/blocks/dirt",
+                "textures/blocks/dirt",
+                "textures/blocks/dirt",
+                "textures/blocks/dirt",
+                "textures/blocks/dirt",
+                "textures/blocks/dirt"
+            ]
+        },
+        "grass_carried_top": {
+            "textures": [
+                {
+                    "path": "textures/blocks/grass/grass_top",
+                    "overlay_color": "#79c05a"
+                }
+            ]
+        },
+        "grass_carried_bottom": {
+            "textures": "textures/blocks/dirt"
+        },
+        "grass_carried_side": {
+            "textures": {
+                "path": "textures/blocks/grass/grass_side",
+                "overlay_color": "#79c05a"
+            }
+        },
         "stone_carried": {
             "textures": [
                 "textures/blocks/stone",
